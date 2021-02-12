@@ -1,0 +1,15 @@
+(footprint "CENTR" (version 20210126) (generator pcbnew) (layer "F.Cu")
+  (tedit 6026915A)
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp eeaa3482-d007-4609-8aeb-c09f515d64c9)
+  )
+  (fp_text value "Val**" (at 0 0) (layer "F.SilkS") hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp d4f77525-4b17-49ec-8c46-ff6dd21aaf1a)
+  )
+  (fp_circle (center 0 0) (end 0.3 0) (layer "F.Cu") (width 0.6096) (fill none) (tstamp 9f85246a-5d36-49b3-9fa5-e0eaa1d90104))
+  (fp_circle (center 0 0) (end 0.3 0) (layer "F.Cu") (width 0.6096) (fill none) (tstamp da305770-9636-48ee-8a8c-b2021182a53e))
+  (fp_circle (center 0 0) (end 0.4 0) (layer "F.Mask") (width 0.8) (fill none) (tstamp f432b68c-5b23-4e4d-9a1b-aacb6683ce01))
+  (fp_circle (center 0 0) (end 0.3 0) (layer "Cmts.User") (width 0.6096) (fill none) (tstamp 047f9823-f6ef-4ae8-a01f-eb4adb3de52a))
+)
